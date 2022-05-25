@@ -1,10 +1,10 @@
-## Player
+# Player
 
 Stack 
 * HTML
 * CSS
 * JavaScript
 
-# URL: 
+## URL: 
 https://tatianakud.github.io/Work-2.0/
 
